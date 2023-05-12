@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Stephen Parinas 👋
 
-<!--
-**neilstephen2001/neilstephen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Biomedical Engineering/Pharmacology conjoint student at the University of Auckland.
 
-Here are some ideas to get you started:
+#### Contact me:
+<a href="https://www.linkedin.com/in/stephen-parinas/">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png"/>
+</a>
+<a href="mailto:neilstephen01@gmail.com">
+  <img align="left" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neilstephen2001&theme=rose_pine&layout=compact"/>

@@ -1,6 +1,6 @@
 ### Hi there, I'm Stephen Parinas 👋
 
-I'm a final-year Biomedical Engineering/Pharmacology conjoint student at the University of Auckland.
+I'm a final-year Biomedical Engineering / Pharmacology conjoint student at the University of Auckland.
 
 #### Contact me:
 <a href="https://www.linkedin.com/in/stephen-parinas/">

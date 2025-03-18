@@ -13,6 +13,9 @@
 <a href="https://www.last.fm/user/stvn127">
   <img align="left" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-network-icon/112/lastfm-512.png" />
 </a>
+<a href="https://open.spotify.com/user/kfs3lqp4ixq8klhnmk8qh50sj?si=40ba84124bbd4506">
+  <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-1024.png" />
+</a>
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neilstephen2001&layout=compact&theme=rose_pine"/>

@@ -1,4 +1,4 @@
-### Hi there, I'm Stephen Parinas 👋
+### Hi there, I'm Stephen 👋
 
 #### Contact me:
 <a href="https://www.linkedin.com/in/stephen-parinas/">
@@ -18,4 +18,4 @@
 </a>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neilstephen2001&layout=compact&theme=rose_pine"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen-parinas&layout=compact&theme=rose_pine"/>

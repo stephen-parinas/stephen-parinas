@@ -18,4 +18,4 @@
 </a>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen-parinas&layout=compact&theme=rose_pine"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen-parinas&theme=rose_pine&layout=compact"/>
